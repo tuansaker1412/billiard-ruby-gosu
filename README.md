@@ -9,7 +9,7 @@ Install [Gosu library](https://www.libgosu.org/).
 
 [Github main gosu repository](https://github.com/gosu/gosu/tree/master/examples).
 
-To install and run the `billiard-ruby-gosu` gem:
+To install and run the `billiard-ruby-gosu` with gem `gosu`:
 
 ```bash
 gem install gosu
